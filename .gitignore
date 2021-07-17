@@ -2,4 +2,3 @@
 *.tfvars
 *.tfstate*
 kubeconfig*
-*.yml
