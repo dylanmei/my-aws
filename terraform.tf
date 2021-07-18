@@ -12,6 +12,11 @@ terraform {
   }
 }
 
+variable aws_account_id {
+  description = "My AWS account ID"
+  type = number
+}
+
 variable aws_access_key {
   description = "My AWS access key ID"
   type = string

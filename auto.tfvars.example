@@ -1,5 +1,6 @@
 # If you are interested in working locally, you can
 # copy this file as .auto.tfvars and replace vars
 
+aws_account_id = 123456789012
 aws_access_key = "ACC..."
 aws_secret_key = "SEC..."
